@@ -1,0 +1,2 @@
+pain(1), swelling(2), pressure(3), bloating(4), none(5), burning(6), irregular-heartbeat(7), tingling(8), 
+flu(10), covid(11), allergy(12), asthma(13), migraine(14), normal(15)
